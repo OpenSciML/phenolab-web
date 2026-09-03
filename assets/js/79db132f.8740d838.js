@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([["9418"],{7328(e){e.exports=JSON.parse('{"authors":[{"name":"PhenoLab Contributors","title":"PhenoLab Project Team","url":"https://github.com/OpenSciML/phenolab","imageURL":"/phenolab-web/img/phenolab-logo.png","key":"phenolab","page":null,"count":2}]}')}}]);

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://opensciml.github.io/phenolab-web/blog</id>
+    <title>PhenoLab Blog</title>
+    <updated>2026-09-03T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://opensciml.github.io/phenolab-web/blog"/>
+    <subtitle>PhenoLab Blog</subtitle>
+    <icon>https://opensciml.github.io/phenolab-web/img/phenolab-logo.png</icon>
+    <entry>
+        <title type="html"><![CDATA[PhenoLab Beta Is Here]]></title>
+        <id>https://opensciml.github.io/phenolab-web/blog/phenolab-beta-release</id>
+        <link href="https://opensciml.github.io/phenolab-web/blog/phenolab-beta-release"/>
+        <updated>2026-09-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We are excited to share the beta release of PhenoLab, a crop phenotyping web platform for organizing field studies, managing plot-level research assets, running reusable analysis workflows, and turning experimental data into research-ready outputs.]]></summary>
+        <content type="html"><![CDATA[<p>We are excited to share the beta release of PhenoLab, a crop phenotyping web platform for organizing field studies, managing plot-level research assets, running reusable analysis workflows, and turning experimental data into research-ready outputs.</p>
+<!-- -->
+<p>This beta brings the main pieces of the PhenoLab workflow together in one browser-based workspace:</p>
+<ul>
+<li class=""><strong>Project and study organization</strong> for structuring research work across projects, studies, datasets, plots, and assets.</li>
+<li class=""><strong>Dataset editing tools</strong> for registering plot-level imagery, sensor data, metadata, treatments, and supporting files.</li>
+<li class=""><strong>Reusable LgoPy analysis modules</strong> that can be installed, searched, inspected, and combined like building blocks for phenotyping and remote-sensing workflows.</li>
+<li class=""><strong>Analysis pipelines</strong> for running dataset-level workflows, tracking progress, reviewing logs, and collecting generated artifacts.</li>
+<li class=""><strong>Results and exports</strong> that keep derived files, figures, tables, metadata, and pipeline outputs connected to the original study context.</li>
+<li class=""><strong>Configuration and deployment documentation</strong> for running PhenoLab locally today while keeping a clear path toward hosted deployments.</li>
+</ul>
+<p>The beta also introduces the direction for PhenoLab's scientific knowledge base and agent-assisted workflows. The goal is to help research teams move from multimodal field observations to defensible findings, downstream analysis, scientific discovery, manuscripts, and grant proposals while keeping methods, provenance, and outputs organized.</p>
+<p>This release is an important step toward a more modular, reusable, and transparent phenotyping platform. We will use this blog to share updates, release notes, tutorials, and development progress as PhenoLab continues to evolve.</p>]]></content>
+        <author>
+            <name>PhenoLab Contributors</name>
+            <uri>https://github.com/OpenSciML/phenolab</uri>
+        </author>
+        <category label="Release notes" term="Release notes"/>
+        <category label="Development" term="Development"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PhenoLab Documentation Moves to Docusaurus]]></title>
+        <id>https://opensciml.github.io/phenolab-web/blog/website-docs-migration</id>
+        <link href="https://opensciml.github.io/phenolab-web/blog/website-docs-migration"/>
+        <updated>2026-09-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The PhenoLab website now uses Docusaurus for documentation, project updates,]]></summary>
+        <content type="html"><![CDATA[<p>The PhenoLab website now uses Docusaurus for documentation, project updates,
+release notes, and development notes.</p>
+<!-- -->
+<p>The initial documentation content was migrated from the existing MkDocs source
+tree and keeps the same major sections: getting started, software overview,
+features, tutorials, deployment, FAQ, and troubleshooting.</p>
+<p>Future updates can be published here as blog posts while the docs remain focused
+on stable user and developer guidance.</p>]]></content>
+        <author>
+            <name>PhenoLab Contributors</name>
+            <uri>https://github.com/OpenSciML/phenolab</uri>
+        </author>
+        <category label="Documentation" term="Documentation"/>
+        <category label="Development" term="Development"/>
+    </entry>
+</feed>
