@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-label="Annotated API keys screenshot placeholder">
+  <rect width="1280" height="720" fill="#f7faf7"/>
+  <rect x="70" y="64" width="1140" height="592" rx="8" fill="#ffffff" stroke="#d9e4dc"/>
+  <text x="110" y="118" font-family="Arial" font-size="30" font-weight="700" fill="#173b29">API Keys</text>
+  <text x="110" y="152" font-family="Arial" font-size="16" fill="#64766a">Manage programmatic access to the PhenoLab API.</text>
+  <rect x="980" y="96" width="170" height="42" rx="6" fill="#2f7d4f"/>
+  <text x="1007" y="123" font-family="Arial" font-size="16" font-weight="700" fill="#ffffff">Create new key</text>
+  <line x1="110" y1="220" x2="1150" y2="220" stroke="#d9e4dc"/>
+  <text x="110" y="260" font-family="Arial" font-size="17" font-weight="700" fill="#173b29">Name</text>
+  <text x="360" y="260" font-family="Arial" font-size="17" font-weight="700" fill="#173b29">Key ID</text>
+  <text x="660" y="260" font-family="Arial" font-size="17" font-weight="700" fill="#173b29">Status</text>
+  <text x="110" y="310" font-family="Arial" font-size="16" fill="#173b29">Notebook export</text>
+  <text x="360" y="310" font-family="Arial" font-size="16" fill="#173b29">pk_live_••••••</text>
+  <rect x="660" y="288" width="74" height="28" rx="14" fill="#dff2e4"/>
+  <text x="678" y="308" font-family="Arial" font-size="14" font-weight="700" fill="#2f7d4f">active</text>
+  <path d="M980 118 L884 176 L884 236" fill="none" stroke="#e79f35" stroke-width="4"/>
+  <text x="650" y="184" font-family="Arial" font-size="16" fill="#9a650f">Generate secrets once, then store them securely.</text>
+</svg>
