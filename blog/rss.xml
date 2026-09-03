@@ -9,7 +9,7 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Building Custom LgoPy Blocks for PhenoLab]]></title>
+            <title><![CDATA[Building Reusable LgoPy Analytical Blocks for PhenoLab]]></title>
             <link>https://opensciml.github.io/phenolab-web/blog/building-custom-lgopy-blocks</link>
             <guid>https://opensciml.github.io/phenolab-web/blog/building-custom-lgopy-blocks</guid>
             <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>

@@ -8,7 +8,7 @@
     <subtitle>PhenoLab Blog</subtitle>
     <icon>https://opensciml.github.io/phenolab-web/img/phenolab-logo.png</icon>
     <entry>
-        <title type="html"><![CDATA[Building Custom LgoPy Blocks for PhenoLab]]></title>
+        <title type="html"><![CDATA[Building Reusable LgoPy Analytical Blocks for PhenoLab]]></title>
         <id>https://opensciml.github.io/phenolab-web/blog/building-custom-lgopy-blocks</id>
         <link href="https://opensciml.github.io/phenolab-web/blog/building-custom-lgopy-blocks"/>
         <updated>2026-09-03T00:00:00.000Z</updated>
